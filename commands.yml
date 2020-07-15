@@ -1,0 +1,3 @@
+'!ip':
+  type: 'message'
+  data: 'The ip for the server is mc.clubobsidian.com'
