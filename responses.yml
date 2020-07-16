@@ -1,2 +1,8 @@
-'what is the ip':
+'what is the ip', 'how do i join the server'
   response: 'The ip to the server is mc.clubobsidian.com'
+'xbox', 'windows ten', 'windows 10', 'minecraft pe', 'pe'
+  response: 'This server is only supported on the java edition of minecraft'
+  'how do i complete the captcha'
+  response: 'go to options -> chat settings -> chat: shown'
+  'what version is this'
+   response: 'obsidian is 1.8+ and ark is 1.13+'
